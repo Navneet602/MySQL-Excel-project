@@ -14,7 +14,8 @@ The primary objective was to ascertain the percentage of net sales for the top 1
 Upon obtaining the key metrics, I exported the data to Excel for further manipulation and visualization. Leveraging Excel's capabilities, I crafted a visually intuitive chart reports showcasing the net sales percentages across the top 10 markets, thereby facilitating clear and concise communication of the analytical findings.
 
 Conclusion:
-Through meticulous data processing, integration, and analysis, this project enabled a comprehensive understanding of Atliq Hardware's net sales performance across its primary markets in fiscal year 2021. The utilization of MySQL for data manipulation and Excel for visualization exemplified the synergy between database management and analytical tools in extracting actionable insights from complex datasets..
+Through meticulous data processing, integration, and analysis, this project enabled a comprehensive understanding of Atliq Hardware's net sales performance across its primary markets in fiscal year 2021. The utilization of MySQL for data manipulation and Excel for visualization exemplified the synergy between database management and analytical tools in extracting actionable insights from complex datasets.
 
-![image](https://github.com/Navneet602/MySQL-Excel-project/assets/112957129/3c127049-0c02-4089-9dfb-c26c8ca587dc)
+<img src="https://github.com/Navneet602/MySQL-Excel-project/assets/112957129/29d3cf19-be7b-4cfa-8625-9184de939d83.png" width="500">
+<img src="https://github.com/Navneet602/MySQL-Excel-project/assets/112957129/3c127049-0c02-4089-9dfb-c26c8ca587dc.png" width="500">
 
