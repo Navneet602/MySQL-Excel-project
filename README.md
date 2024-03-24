@@ -11,7 +11,7 @@ Given the necessity to reuse temporary tables generated during intermediate quer
 The primary objective was to ascertain the percentage of net sales for the top 10 markets of Atliq Hardware during the fiscal year 2021. By executing complex SQL queries and aggregations, I derived the desired insights, which formed the basis of subsequent visualization efforts.
 
 4. **Visualization and Reporting:**
-Upon obtaining the key metrics, I exported the data to Excel for further manipulation and visualization. Leveraging Excel's capabilities, I crafted a visually intuitive bar chart report showcasing the net sales percentages across the top 10 markets, thereby facilitating clear and concise communication of the analytical findings.
+Upon obtaining the key metrics, I exported the data to Excel for further manipulation and visualization. Leveraging Excel's capabilities, I crafted a visually intuitive chart reports showcasing the net sales percentages across the top 10 markets, thereby facilitating clear and concise communication of the analytical findings.
 
 Conclusion:
 Through meticulous data processing, integration, and analysis, this project enabled a comprehensive understanding of Atliq Hardware's net sales performance across its primary markets in fiscal year 2021. The utilization of MySQL for data manipulation and Excel for visualization exemplified the synergy between database management and analytical tools in extracting actionable insights from complex datasets..
